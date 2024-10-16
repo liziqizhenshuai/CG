@@ -1,0 +1,32 @@
+﻿    正在创建库 D:\2020图形学实验及课设\实验上机\VS2017\ProjectThree\Debug\ProjectThree.lib 和对象 D:\2020图形学实验及课设\实验上机\VS2017\ProjectThree\Debug\ProjectThree.exp
+LINK : warning LNK4098: 默认库“LIBCMTD”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+SOIL32d.lib(image_DXT.obj) : warning LNK4099: 未找到 PDB“SOIL.pdb”(使用“SOIL32d.lib(image_DXT.obj)”或在“D:\2020图形学实验及课设\实验上机\VS2017\ProjectThree\Debug\SOIL.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+SOIL32d.lib(image_helper.obj) : warning LNK4099: 未找到 PDB“SOIL.pdb”(使用“SOIL32d.lib(image_helper.obj)”或在“D:\2020图形学实验及课设\实验上机\VS2017\ProjectThree\Debug\SOIL.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+SOIL32d.lib(SOIL.obj) : warning LNK4099: 未找到 PDB“SOIL.pdb”(使用“SOIL32d.lib(SOIL.obj)”或在“D:\2020图形学实验及课设\实验上机\VS2017\ProjectThree\Debug\SOIL.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+SOIL32d.lib(stb_image_aug.obj) : warning LNK4099: 未找到 PDB“SOIL.pdb”(使用“SOIL32d.lib(stb_image_aug.obj)”或在“D:\2020图形学实验及课设\实验上机\VS2017\ProjectThree\Debug\SOIL.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glut32d.lib(glut_8x13.obj) : warning LNK4099: 未找到 PDB“glut32.pdb”(使用“glut32d.lib(glut_8x13.obj)”或在“D:\2020图形学实验及课设\实验上机\VS2017\ProjectThree\Debug\glut32.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glut32d.lib(glut_9x15.obj) : warning LNK4099: 未找到 PDB“glut32.pdb”(使用“glut32d.lib(glut_9x15.obj)”或在“D:\2020图形学实验及课设\实验上机\VS2017\ProjectThree\Debug\glut32.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glut32d.lib(glut_cmap.obj) : warning LNK4099: 未找到 PDB“glut32.pdb”(使用“glut32d.lib(glut_cmap.obj)”或在“D:\2020图形学实验及课设\实验上机\VS2017\ProjectThree\Debug\glut32.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glut32d.lib(glut_cursor.obj) : warning LNK4099: 未找到 PDB“glut32.pdb”(使用“glut32d.lib(glut_cursor.obj)”或在“D:\2020图形学实验及课设\实验上机\VS2017\ProjectThree\Debug\glut32.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glut32d.lib(glut_event.obj) : warning LNK4099: 未找到 PDB“glut32.pdb”(使用“glut32d.lib(glut_event.obj)”或在“D:\2020图形学实验及课设\实验上机\VS2017\ProjectThree\Debug\glut32.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glut32d.lib(glut_fullscrn.obj) : warning LNK4099: 未找到 PDB“glut32.pdb”(使用“glut32d.lib(glut_fullscrn.obj)”或在“D:\2020图形学实验及课设\实验上机\VS2017\ProjectThree\Debug\glut32.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glut32d.lib(glut_gamemode.obj) : warning LNK4099: 未找到 PDB“glut32.pdb”(使用“glut32d.lib(glut_gamemode.obj)”或在“D:\2020图形学实验及课设\实验上机\VS2017\ProjectThree\Debug\glut32.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glut32d.lib(glut_hel10.obj) : warning LNK4099: 未找到 PDB“glut32.pdb”(使用“glut32d.lib(glut_hel10.obj)”或在“D:\2020图形学实验及课设\实验上机\VS2017\ProjectThree\Debug\glut32.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glut32d.lib(glut_hel12.obj) : warning LNK4099: 未找到 PDB“glut32.pdb”(使用“glut32d.lib(glut_hel12.obj)”或在“D:\2020图形学实验及课设\实验上机\VS2017\ProjectThree\Debug\glut32.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glut32d.lib(glut_hel18.obj) : warning LNK4099: 未找到 PDB“glut32.pdb”(使用“glut32d.lib(glut_hel18.obj)”或在“D:\2020图形学实验及课设\实验上机\VS2017\ProjectThree\Debug\glut32.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glut32d.lib(glut_init.obj) : warning LNK4099: 未找到 PDB“glut32.pdb”(使用“glut32d.lib(glut_init.obj)”或在“D:\2020图形学实验及课设\实验上机\VS2017\ProjectThree\Debug\glut32.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glut32d.lib(glut_key.obj) : warning LNK4099: 未找到 PDB“glut32.pdb”(使用“glut32d.lib(glut_key.obj)”或在“D:\2020图形学实验及课设\实验上机\VS2017\ProjectThree\Debug\glut32.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glut32d.lib(glut_mesa.obj) : warning LNK4099: 未找到 PDB“glut32.pdb”(使用“glut32d.lib(glut_mesa.obj)”或在“D:\2020图形学实验及课设\实验上机\VS2017\ProjectThree\Debug\glut32.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glut32d.lib(glut_mroman.obj) : warning LNK4099: 未找到 PDB“glut32.pdb”(使用“glut32d.lib(glut_mroman.obj)”或在“D:\2020图形学实验及课设\实验上机\VS2017\ProjectThree\Debug\glut32.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glut32d.lib(glut_roman.obj) : warning LNK4099: 未找到 PDB“glut32.pdb”(使用“glut32d.lib(glut_roman.obj)”或在“D:\2020图形学实验及课设\实验上机\VS2017\ProjectThree\Debug\glut32.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glut32d.lib(glut_swap.obj) : warning LNK4099: 未找到 PDB“glut32.pdb”(使用“glut32d.lib(glut_swap.obj)”或在“D:\2020图形学实验及课设\实验上机\VS2017\ProjectThree\Debug\glut32.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glut32d.lib(glut_tr10.obj) : warning LNK4099: 未找到 PDB“glut32.pdb”(使用“glut32d.lib(glut_tr10.obj)”或在“D:\2020图形学实验及课设\实验上机\VS2017\ProjectThree\Debug\glut32.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glut32d.lib(glut_tr24.obj) : warning LNK4099: 未找到 PDB“glut32.pdb”(使用“glut32d.lib(glut_tr24.obj)”或在“D:\2020图形学实验及课设\实验上机\VS2017\ProjectThree\Debug\glut32.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glut32d.lib(glut_util.obj) : warning LNK4099: 未找到 PDB“glut32.pdb”(使用“glut32d.lib(glut_util.obj)”或在“D:\2020图形学实验及课设\实验上机\VS2017\ProjectThree\Debug\glut32.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glut32d.lib(glut_win.obj) : warning LNK4099: 未找到 PDB“glut32.pdb”(使用“glut32d.lib(glut_win.obj)”或在“D:\2020图形学实验及课设\实验上机\VS2017\ProjectThree\Debug\glut32.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glut32d.lib(win32_glx.obj) : warning LNK4099: 未找到 PDB“glut32.pdb”(使用“glut32d.lib(win32_glx.obj)”或在“D:\2020图形学实验及课设\实验上机\VS2017\ProjectThree\Debug\glut32.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glut32d.lib(win32_menu.obj) : warning LNK4099: 未找到 PDB“glut32.pdb”(使用“glut32d.lib(win32_menu.obj)”或在“D:\2020图形学实验及课设\实验上机\VS2017\ProjectThree\Debug\glut32.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glut32d.lib(win32_util.obj) : warning LNK4099: 未找到 PDB“glut32.pdb”(使用“glut32d.lib(win32_util.obj)”或在“D:\2020图形学实验及课设\实验上机\VS2017\ProjectThree\Debug\glut32.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glut32d.lib(win32_winproc.obj) : warning LNK4099: 未找到 PDB“glut32.pdb”(使用“glut32d.lib(win32_winproc.obj)”或在“D:\2020图形学实验及课设\实验上机\VS2017\ProjectThree\Debug\glut32.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glut32d.lib(win32_x11.obj) : warning LNK4099: 未找到 PDB“glut32.pdb”(使用“glut32d.lib(win32_x11.obj)”或在“D:\2020图形学实验及课设\实验上机\VS2017\ProjectThree\Debug\glut32.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  ProjectThree.vcxproj -> D:\2020图形学实验及课设\实验上机\VS2017\ProjectThree\Debug\ProjectThree.exe
